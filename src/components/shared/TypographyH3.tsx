@@ -7,7 +7,7 @@ export const h3Variants = cva('', {
 		variant: {
 			default: '',
 			primary:
-				'leading-[13.151px] tracking-[-0.22px] font-bold font-archivo text-[14px] lg:leading-[17.968px] lg:tracking-[-0.3px] lg:text-[16px] xl:tracking-[-0.46px] xl:leading-[27px]'
+				'leading-[13.151px] tracking-[-0.22px] font-bold font-raleway text-[14px] lg:leading-[17.968px] lg:tracking-[-0.3px] lg:text-[16px] xl:tracking-[-0.46px] xl:leading-[27px]'
 		}
 	},
 	defaultVariants: {

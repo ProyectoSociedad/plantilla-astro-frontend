@@ -7,7 +7,7 @@ export const h2Variants = cva('', {
 		variant: {
 			default: '',
 			primary:
-				'text-[18px] tracking-[-0.54px] lg:tracking-[-0.72px] lg:text-[24px] 2xl:tracking-[-1.14px] 2xl:text-[38px] font-bold font-archivo'
+				'text-[18px] tracking-[-0.54px] lg:tracking-[-0.72px] lg:text-[24px] 2xl:tracking-[-1.14px] 2xl:text-[38px] font-bold font-raleway'
 		}
 	},
 	defaultVariants: {

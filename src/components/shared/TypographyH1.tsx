@@ -7,7 +7,7 @@ export const h1Variants = cva('', {
 		variant: {
 			default: '',
 			primary:
-				'text-[28px] [letter-spacing:-1.4px] md:text-[45px] md:[letter-spacing:-2px] lg:[letter-spacing:-4px] lg:text-[55px] xl:text-[65px] 2xl:text-[80px] font-bold font-archivo'
+				'text-[28px] [letter-spacing:-1.4px] md:text-[45px] md:[letter-spacing:-2px] lg:[letter-spacing:-4px] lg:text-[55px] xl:text-[65px] 2xl:text-[80px] font-bold font-raleway'
 		}
 	},
 	defaultVariants: {
