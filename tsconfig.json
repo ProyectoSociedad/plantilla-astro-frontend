@@ -1,0 +1,17 @@
+{
+	"extends": "astro/tsconfigs/strict",
+	"compilerOptions": {
+		"allowJs": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./src/*"]
+		},
+		"typeRoots": ["./node_modules/@types", "./types"],
+		"jsx": "react-jsx",
+		"jsxImportSource": "react",
+		"target": "ES2023", 
+		"downlevelIteration": true
+	},
+	"include": ["src", "types/**/*"]
+	
+}
